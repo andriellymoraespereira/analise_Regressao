@@ -111,7 +111,7 @@ R: There is no clear correlation. We can deduce that there are many customers wh
 R: as the customer becomes older (longer sign-up time), the total amount spent by customers also increases.
 
 ### Q6. Relationship Between Time Logged in the App and Time Logged in the Web Site?
-R: A critical problem was not detected
+R: Any critical problem was not detected
 
 
 ## 5.2 Metabase Dashboard with some information about average number of clicks per session of the total time logged into the website and total time logged into the app .
