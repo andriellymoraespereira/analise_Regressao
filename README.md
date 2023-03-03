@@ -20,7 +20,7 @@ This is a data science regression project for a company called ClickSpeed that w
 * [6. Conclusion](#8-conclusion)
 * [7. Leassons Learned](#9-leassons-learned)
 * [8. Future Work and Next Steps](#10-future-work-and-next-steps)
-* [8. Thanks](#10-future-work-and-next-steps)
+* [9. Thanks](#10-future-work-and-next-steps)
 
 ## 1 Description and Business Problem
 ## 1.1 Description and context
