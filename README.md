@@ -1,4 +1,4 @@
-# Customer Loyalty Program for an E-Commerce
+# Improve the customer experience on the app in an E-commerce
 ![image1!](item-1.png)
 
 # Promoters Project
