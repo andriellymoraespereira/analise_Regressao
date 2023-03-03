@@ -1,7 +1,7 @@
 # Customer Loyalty Program for an E-Commerce
 ![image1!](item-1.png)
 
-# Insiders Program Project
+# Promoters Project
 
 The following context is entirely fictional, the company, the context and the CEO. The business questions are also fictional, but have been worded to be an example of how they would be asked in a business work environment.
 
@@ -153,4 +153,4 @@ This project was a great learning experience, in which we used different tools a
 
 # 9 Thanks
 
-![diagram!](MP2.png)
+![imagem!](MP2.png)
