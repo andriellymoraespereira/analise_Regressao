@@ -36,7 +36,7 @@ Based on this goal, the company to improve the customer experience while browsin
 The biggest challenge, then, is to determine which customers are eligible to participate in the "Promoters" groups. In possession of this list, the marketing team will run a series of personalized and exclusive promotions for the group to increase sales and purchase frequency, as well as customer satisfaction with the company.
 
 In addition to the creation of this group of Promoters, some business questions must be answered, they are:
-* Who are promoters customers?
+* Who are the promoters customers?
 * Relationship Between Time on the Website and Amount Spent?
 * Relationship Between Time on the app and Amount Spent?
 * Relationship Between Time on the app and registration time?
