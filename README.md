@@ -87,7 +87,7 @@ business hypothesis creation and hypothesis validation and then answering the bu
 # 4. Machine Learning Model Selection and Performance
 The following regression models were applied in the project:
 * Linear.
-* Redge.
+* Ridge.
 * Lasso.
 
 
