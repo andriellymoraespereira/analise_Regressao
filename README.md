@@ -128,7 +128,8 @@ R: A critical problem was not detected
 
 * Keeping all other resources fixed, a 1 unit increase in total time logged into the website is associated with an increase of R$0.68 in the total amount spent per customer per month.
 
-Podemos ver que será mais lucrativo para a empresa investir na atualização da sua app uma vez que o retorno será maior. Além disso, é importante criar políticas para reter o cliente por mais tempo, já que isso também leva ao aumento das vendas. A própria atualização da app será uma forma de reter o cliente por mais tempo.
+We can see that it will be more profitable for the company to invest in updating your app since the return will be higher. In addition, it is important to create policies to retain the customer for longer, as this also leads to increased sales. The app update itself will be a way to retain the customer for longer.
+
 
 It does not pay, at this moment, to invest in updating the website, as the return will be minimal.
 
