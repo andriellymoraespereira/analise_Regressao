@@ -114,7 +114,7 @@ R: as the customer becomes older (longer sign-up time), the total amount spent b
 R: A critical problem was not detected
 
 
-## 5.2 Metabase Dashboard with some information about the Insider's Cluster.
+## 5.2 Metabase Dashboard with some information about average number of clicks per session of the total time logged into the website and total time logged into the app .
 ![diagram2!](dashboard.png)
 
 
