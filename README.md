@@ -152,6 +152,6 @@ This project was a great learning experience, in which we used different tools a
 
 
 
-# 9 Thanks
+# 9 Thanks!
 
 ![imagem!](MP2.png)
